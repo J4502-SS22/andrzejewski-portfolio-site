@@ -1,2 +1,2 @@
 # andrzejewski-portfolio-site
-this is the porftolio site for myself!
+Nathan's portfolio site: https://j4502-ss22.github.io/andrzejewski-portfolio-site/
