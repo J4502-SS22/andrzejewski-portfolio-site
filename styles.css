@@ -1,3 +1,4 @@
+/*general body components*/
 body {
 
 }
@@ -9,11 +10,13 @@ body {
   margin: auto;
   text-align: center;
 }
-
+/*headshot!*/
 .formal {
   border-radius: 50%;
   border: 10px solid #edcc11
 }
+
+/* nav bar organization */
 nav {
     background: #edcc11;
 }
@@ -44,6 +47,8 @@ nav a {
     align-items: center;
     justify-content: center;
 }
+
+/*footer elements */
 
 footer {
   text-align: center;
