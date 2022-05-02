@@ -7,13 +7,13 @@ body {
   padding: 10px;
   max-width: 900px;
   margin: auto;
+  text-align: center;
 }
 
-#headshot-formal {
-  border-radius: 50%
-  border: 5px solid #edcc11;
+.formal {
+  border-radius: 50%;
+  border: 10px solid #edcc11
 }
-
 nav {
     background: #edcc11;
 }
@@ -43,4 +43,11 @@ nav a {
     flex-flow: wrap;
     align-items: center;
     justify-content: center;
+}
+
+footer {
+  text-align: center;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  font-size: 0.75rem;
 }
