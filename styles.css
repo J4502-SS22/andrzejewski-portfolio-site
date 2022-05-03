@@ -64,3 +64,9 @@ footer {
 }
 
 /*everything past this will be specialized for the projects tab*/
+#showitoff {
+display: block;
+padding: 10px;
+max-width: 750px;
+margin: auto;
+}
