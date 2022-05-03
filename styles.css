@@ -80,3 +80,12 @@ margin: auto;
   margin: auto;
   text-align: center;
 }
+
+.ifcrecruitment2x3 {
+  display: flex;
+flex-flow: wrap;
+justify-content: center;
+align-items: center;
+padding: 3px;
+border-radius: 2%;
+}
